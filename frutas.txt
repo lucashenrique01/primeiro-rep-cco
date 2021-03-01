@@ -1,9 +1,9 @@
 B:
-Banada
+3x Banada
 M:
-Mamão
+2x Mamão
 Melancia
 A:
-Amora
+2x Amora
 L:
-Laranja
+7x Laranja
