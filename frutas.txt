@@ -3,3 +3,7 @@ Banada
 M:
 Mamão
 Melancia
+A:
+Amora
+L:
+Laranja
